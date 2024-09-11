@@ -2,7 +2,6 @@
 # SPDX-License-Identifier: MPL-2.0
 
 # test comment
-# test comment 2
 
 terraform {
 
